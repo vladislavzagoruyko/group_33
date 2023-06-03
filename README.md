@@ -1,4 +1,4 @@
-# Homework 1
+# GIT Homework 1
 
 # JSON
  1. Создать внешний репозиторий c названием JSON.<p>в правом верхнем углу нажать "плюс" и выбрать New repository
@@ -115,7 +115,7 @@
 	<p>git pull
   
   
-  # Homework 2
+  # GIT Homework 2
   
 1. На локальном репозитории сделать ветки для:
 <p>- Postman
